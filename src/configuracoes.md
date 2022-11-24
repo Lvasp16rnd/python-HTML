@@ -6,6 +6,7 @@
 <li>3° Na sua pasta de projetos Django você irá colocar a pasta 'python' do git: https://github.com/Lvasp16rnd/python-HTML </li>
 <li>4° Entre em um editor de código de sua preferência na pasta 'mysite' ou entre nesse diretório via terminal</li>
 <li>5° rode o código no terminal 'python3 manage.py runserver'</li>
+<li>6° Para encerrar basta dar Control + C</li>  
 </ul>
 
 <h1>Site</h1>
