@@ -1,0 +1,41 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{% static 'ico/favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <title>Otis</title>
+</head>
+
+    <section>
+        <div class="circle"></div>
+        <header>
+            <a href="#">
+                <img src="{% static 'png/LogoOtis.png' %}" alt="logo" class="logo">
+            </a>
+            <nav class="navegation">
+                <ul>
+                    <li><a href="sobreotis">Sobre</a></li>
+                    <li><a href="Untitled-1">Cuidados</a></li>
+                    <li><a href="contato">Contato</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div class="content">
+            <div class="text">
+                <h1><br><span>Otis</span></h1>
+                <p>Esse é Otis, o chatbot que esta aqui para tirar todas as suas duvidas sobre saude sexual, relacionamentos, crescimento e mais. Conversar com Otis é de graça e 100% privado! Então vá em frente faça uma pergunta.</p>
+                <a href="escolha"> <b>Iniciar Conversa</b></a>
+            </div>
+        </div>
+        <div>
+            <div class="IMG">
+                <img class="imagem" src="{% static 'gif/gifprinc.gif' %}">
+            </div>
+        </div>
+    </section>
+
+</html>
