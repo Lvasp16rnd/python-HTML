@@ -3,6 +3,7 @@ Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Viní
 ## Escopo do Projeto
 1. [Introdução](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/Introdu%C3%A7%C3%A3o.md)
 2. [Funcionalidades](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/funcionalidades.md)
+3. [Ferramentas Utilizadas](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/sobre.md)
 ## Configurações do Projeto
 1. [O que devo fazer](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/configuracoes.md)
 ## Rotas
