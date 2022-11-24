@@ -1,0 +1,33 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="{% static 'ico/favicon.ico' %}" type="image/x-icon">
+    <link rel="stylesheet" href="{% static 'css/style2.css' %}">
+    <title>Otis</title>
+</head>
+    <section>
+        <header>
+            <h1>Olá, estamos aqui para te ajudar, escolha abaixo com quem deseja conversar!</h1>
+        </header>
+        <body>
+            <div>
+                <p>Otis esta disponivel 24 horas por dia, sempre disponivel com respostas rápidas para suas perguntas.</p>
+                <p> Fale agora usando a ferramenta no canto inferior esquerdo !</p>
+            </div>
+            <div>
+                <p>Ou você tambem pode falar com um dos nossos profissionais  que podem ajudar você com uma consulta que você deseja.</p>
+                <a href="#">Fale agora</a>
+            </div>
+            <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+            <df-messenger
+            intent="WELCOME"
+            chat-title="Chat"
+            agent-id="e618d7ec-d8b2-4b56-8650-bf4f7ca15211"
+            language-code="pt-br"
+            ></df-messenger>
+        </body>
+    </section>
