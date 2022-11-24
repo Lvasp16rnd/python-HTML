@@ -7,7 +7,7 @@ Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Viní
 ## Configurações do Projeto
 1. [O que devo fazer](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/configuracoes.md)
 ## Rotas
-1. [Qual caminho seguir]
+1. [Qual caminho seguir](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/descricao.md)
 ## Modelagem do Bando de Dados
 1. [Molelo Lógico](https://github.com/pedrocsampaio/sprint1/blob/main/src/4.Modelagem/modelológico.md)
 ## Documentação
