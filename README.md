@@ -4,7 +4,7 @@ Sendo desenvolvido por: Pedro Correa, Lucas Vinícius, Vínicus Rodrigues, Viní
 1. [Introdução](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/Introdu%C3%A7%C3%A3o.md)
 2. [Funcionalidades](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/funcionalidades.md)
 ## Configurações do Projeto
-1. [O que devo fazer]
+1. [O que devo fazer](https://github.com/Lvasp16rnd/python-HTML/blob/main/src/configuracoes.md)
 ## Rotas
 1. [Qual caminho seguir]
 ## Modelagem do Bando de Dados
