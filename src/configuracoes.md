@@ -12,4 +12,4 @@
 
 <p1>O site fica na porta que está indicando no terminal, no caso coloque '/index' no final do link para ir na página principal</p1>
 
-<p1>Para ir chat clique em 'Iniciar Conversa'</p1>
+<p1>Para ir ao chat clique em 'Iniciar Conversa'</p1>
