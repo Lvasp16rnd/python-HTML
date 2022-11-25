@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Otis/Python/mysite/templates/chat.html
+Otis/Python/mysite/static/js/actions.js
